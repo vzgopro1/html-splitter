@@ -9,6 +9,7 @@
 ## Установка
 
 ```bash
+git clone https://github.com/vzgopro1/html-splitter.git
 cd html-splitter
 pip install -r requirements.txt
 ```
